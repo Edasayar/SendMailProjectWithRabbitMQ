@@ -1,0 +1,4 @@
+C:\Users\eseda\OneDrive\Masaüstü\SendMailProjectWithRabbitMQ\ConsumeMailRequest\obj\Debug\net7.0\ConsumeMailRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eseda\OneDrive\Masaüstü\SendMailProjectWithRabbitMQ\ConsumeMailRequest\obj\Debug\net7.0\ConsumeMailRequest.AssemblyInfoInputs.cache
+C:\Users\eseda\OneDrive\Masaüstü\SendMailProjectWithRabbitMQ\ConsumeMailRequest\obj\Debug\net7.0\ConsumeMailRequest.AssemblyInfo.cs
+C:\Users\eseda\OneDrive\Masaüstü\SendMailProjectWithRabbitMQ\ConsumeMailRequest\obj\Debug\net7.0\ConsumeMailRequest.csproj.CoreCompileInputs.cache

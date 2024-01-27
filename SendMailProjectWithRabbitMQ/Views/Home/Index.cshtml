@@ -1,0 +1,23 @@
+﻿@model SendMailProjectWithRabbitMQ.Models.SendMailVM
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<form asp-controller="Home" asp-action="SendMail" id="formAccountSettings" method="post" enctype="multipart/form-data">
+
+    <h2> Mail Gönder </h2>
+
+    <div class="mb-3">
+        <textarea class="form-control" asp-for="Content" id="testarea" name="Content" rows="3" placeholder="Mesajınızı Giriniz..."></textarea>
+
+    </div>
+
+    <div class="mt-2">
+        <button type="submit" class="btn btn-primary me-2" style="background-color: #8E806A;"> Mail Gönder </button>
+    </div>
+
+</form>
+
